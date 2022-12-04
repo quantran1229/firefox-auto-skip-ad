@@ -20,3 +20,6 @@ web-ext run
 ## Publish package
 
 https://extensionworkshop.com/documentation/publish/package-your-extension/
+```
+web-ext build
+```
